@@ -1,6 +1,6 @@
 ## Meu Readme
 
-Objetivos da Aula
+# Objetivos da Aula
 
 1.	Criar um repositório Local e Adicioná-lo ao nosso GitHub – Remoto.
 2.	Clonar um repositório remoto para o nosso Computador Local.
